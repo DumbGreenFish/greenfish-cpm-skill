@@ -40,3 +40,7 @@ The codebase follows a fixed set of conventions so every screen looks and behave
 - [Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/)
 - [Koin Annotations](https://insert-koin.io/)
 - [Material 3](https://m3.material.io/)
+
+## Contributing
+
+Found a bug or have a suggestion? Feel free to open an issue or submit a pull request!
